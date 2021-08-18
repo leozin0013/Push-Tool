@@ -1,4 +1,4 @@
-# Python Pull Tool
+# Command Prompt Push Tool
 
 - Push your files to GitHub in one second
 - Date and Time description

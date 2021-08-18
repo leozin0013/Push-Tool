@@ -12,4 +12,4 @@
 2. Type "git remote add origin (your repository link)"
 3. Close Git Bash Panel and paste pushtool.cmd into your main directory
 4. Open pushtool.cmd and enjoy!
-- Observation: Gitter.cmd will not be uploaded to GitHub. A copy of it will be sent to your desktop.
+- Observation: pushtool.cmd will not be uploaded to GitHub. A copy of it will be sent to your desktop.

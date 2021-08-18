@@ -1,7 +1,5 @@
-# Python Pull Tool to developers
+# Python Pull Tool
 
-- Pull and Push your project to your GitHub repository
-- Add a description to your changes
+- Push your files to GitHub in one second
+- Date and Time description
 - All in prompt menu
-
-Working in progress

@@ -4,7 +4,7 @@
 - Date and Time description
 - All in prompt menu
 
-# Requeriments
+# Requirements
 - Git LFS
 
 # Instructions

@@ -1,8 +1,8 @@
 # Command Prompt Push Tool
 
-- Push your files to GitHub in one second
+- Upload your files to GitHub in one second
 - Date and Time description
-- All in prompt menu
+- All code in Command Prompt
 
 # Requirements
 - Git LFS
